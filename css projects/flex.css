@@ -1,0 +1,25 @@
+.flexcontainer{
+  border: 3px solid blue;
+  display:flex;
+  flex-direction: row;
+}
+
+.box1{
+  margin:10px;
+  background-color: red;
+  flex-basis: 100%;
+}
+
+.box2{
+  background-color: yellow;
+  margin: 10px;
+  flex-basis: 50%;
+  flex-grow: 3;
+}
+
+.box3{
+  background-color: cyan;
+  margin: 10px;
+  flex-basis: 20%;
+  flex: 0 1 auto;
+}

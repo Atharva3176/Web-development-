@@ -1,0 +1,23 @@
+h1{
+  background-color: red;
+  display: inline-inline-block;
+  width: 200px;
+  height: 200px;
+}
+p{
+  background-color: blue;
+  display: none;
+
+}
+#hello{
+  background-color: yellow;
+  display: block;
+  width: 100px;
+  height: 100px;
+}
+span{
+  background-color: grey;
+  display: block;
+  width: 200px;
+  height: 200px;
+}

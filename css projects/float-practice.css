@@ -1,0 +1,21 @@
+body{
+  border: 15px green solid;
+  font-family: Arial;
+  font-size: 17px;
+}
+h1{
+  color: red;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.p2{
+  text-decoration: underline;
+}
+img{
+width: 500px;
+  float: left;
+}
+.out{
+  margin: 20px;
+}

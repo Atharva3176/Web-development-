@@ -1,0 +1,21 @@
+h1{
+  background: rgb(255,80,80);
+  border-color: blue;
+  border-width: 5px;
+  border-style: solid;
+  border: 10px solid blue; impoetant
+  border: 2px dashed green;
+
+}
+h2{
+  background: rgb(255, 0, 0);
+}
+/*body{
+  background: green;
+}*/
+body{
+  background-image: url(https://media.istockphoto.com/id/537816526/vector/underwater-world.jpg?s=612x612&w=0&k=20&c=U_1QpgfCsqkNFdbiLqFs6C-RyC5d2Eyfl5Kf8_YBgT0=);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
